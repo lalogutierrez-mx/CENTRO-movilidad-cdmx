@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'nimbussanlbold';
+    src: url('nimbussanl-bold-webfont.woff2') format('woff2'),
+         url('nimbussanl-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_monolight';
+    src: url('dmmono-light-webfont.woff2') format('woff2'),
+         url('dmmono-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
