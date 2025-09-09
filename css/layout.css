@@ -16,10 +16,21 @@
 
 }
 
+:root{
+    --bg-color: #000000;
+    --accent-color: #0000ff;
+    --text-color: #ffffff;
+}
+
 body {
     font-family: 'dm_monolight';
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'nimbussanlbold';
+}
+
+.nav-link{
+    background-color: var(--accent-color);
+    color: var(--text-colors);
 }
